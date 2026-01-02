@@ -40,6 +40,6 @@ O foco é **aprendizado técnico**, entendimento de como scanners funcionam inte
 ## 🚀 Como Usar
 
 ```bash
-git clone https://github.com/seu-usuario/pysec-scanner.git
+https://github.com/VilmarTuminskii/simple-security-scanner
 cd pysec-scanner
 python scanner.py --target exemplo.com
